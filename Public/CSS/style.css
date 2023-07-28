@@ -8,7 +8,6 @@ body, html{
     color:#667;
   }
   
-  
   .nav_left{
     padding-left: 100px;
   }
@@ -40,11 +39,11 @@ body, html{
     align-content: center;
   
   }
-  
-  .img{
+
+  .img{ 
     padding-top: 100px;
   }
-  
+
   .ptext {
     font-family: Montserrat;
     position: absolute;
@@ -54,8 +53,9 @@ body, html{
     font-size: 40px;
     letter-spacing: 8px;
     color: #FFF;
-    padding-top: 20px;
+    padding-top: 150px;
   }
+
   .block {
     height: 600px;
     background-color: #79a3b1;
